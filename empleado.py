@@ -45,9 +45,9 @@ class Instructor(Empleado):
 
 
 # Crear objetos
-desarrollador1 = Desarrollador("Jose", 12345, 3000000, "Python")
-disenador1 = Diseñador("Daniela", 67890, 2800000, "Figma")
-instructor1 = Instructor("Alberto", 54321, 3200000, "Desarrollo de software")
+desarrollador1 = Desarrollador("Jose", 12345, 3000000, "java")
+disenador1 = Diseñador("Daniela", 67890, 2800000, "html")
+instructor1 = Instructor("Alberto", 54321, 3200000, "Desarrollo de base de datos")
 
 
 # Mostrar información y ejecutar métodos
