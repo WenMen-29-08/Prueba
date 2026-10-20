@@ -51,17 +51,17 @@ instructor1 = Instructor("Alberto", 54321, 3200000, "Desarrollo de base de datos
 
 
 # Mostrar información y ejecutar métodos
-print("----- Programador -----")
+print("----- PROGRAMADOR -----")
 desarrollador1.mostrar_datos()
 desarrollador1.trabajar()
 desarrollador1.programar()
 
-print("\n----- Creatividad -----")
+print("\n----- CREATIVIDAD -----")
 disenador1.mostrar_datos()
 disenador1.trabajar()
 disenador1.disenar()
 
-print("\n----- Docente -----")
+print("\n----- INSTRUCTOR -----")
 instructor1.mostrar_datos()
 instructor1.trabajar()
 instructor1.orientar_formacion()
